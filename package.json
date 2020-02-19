@@ -36,6 +36,7 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "rellax": "^1.9.1",
-    "reset-css": "^4.0.1"
+    "reset-css": "^4.0.1",
+    "serialize-javascript": "^3.0.0"
   }
 }
