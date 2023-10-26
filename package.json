@@ -37,6 +37,6 @@
     "lodash": "^4.17.21",
     "rellax": "^1.9.1",
     "reset-css": "^4.0.1",
-    "serialize-javascript": "^3.0.0"
+    "serialize-javascript": "^3.1.0"
   }
 }
